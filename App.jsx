@@ -1,5 +1,6 @@
 
 import Hello from "./hello"
+import Bye from "./bye"
 
 function App() {
   
@@ -7,6 +8,7 @@ function App() {
     <>
      
      <Hello />
+     <Bye />
      
     </>
   )
